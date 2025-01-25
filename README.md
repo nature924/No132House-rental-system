@@ -68,6 +68,5 @@
 ![image/1.png](image/8.png)
 ![image/1.png](image/9.png)
 ![image/1.png](image/10.png)
-![image/1.png](image/11.png)
 
 
